@@ -13,3 +13,7 @@ Programming language which was used is C++. The binary search tree and AVL tree 
 ![](/Graphs/Insertion_Random.jpg "")
 
 ![](/Graphs/Insertion_sorted.jpg "")
+
+
+### Conclusion
+Conclusion, in general both AVL and BST performed best for the unsorted data inserted, while the sorted and nearly sorted arrays appeared to be the worst case for the BST.
