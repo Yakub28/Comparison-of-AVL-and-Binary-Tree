@@ -9,5 +9,7 @@ Programming language which was used is C++. The binary search tree and AVL tree 
 
 ### Images
 ![](/Graphs/Find_operation.jpg "")
+
 ![](/Graphs/Insertion_Random.jpg "")
-![]()/Graphs/Insertion_sorted.jpg "")
+
+![](/Graphs/Insertion_sorted.jpg "")
